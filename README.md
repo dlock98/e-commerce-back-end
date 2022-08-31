@@ -8,6 +8,6 @@ E-commerce platforms like Shopify and WooCommerce provide a suite of services to
 
 ## Installation and Usage
 
-1. <em>Git clone</em> repository to your local terminal/bash. <br>
+1. <b>Git clone</b> repository to your local terminal/bash. <br>
 2. Install Node.js by running npm i in the command line. <br>
 3. Once functionality has been established it can be tested in Insomnia. 
